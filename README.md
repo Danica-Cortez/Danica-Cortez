@@ -1,16 +1,16 @@
-### Hi there 👋
+# 🙋🏽‍♀️ Hey there
 
-<!--
-**Danica-Cortez/Danica-Cortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Danica, a data professional with a deep passion for storytelling through data. I'm currently working on unsupervised clustering analysis.
 
-Here are some ideas to get you started:
+⚡Fun fact: I am an avid traveler and have explored over 20 countries. My favorite thing about traveling, besides getting to experience different ways of being, is trying different cuisines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 📚 Projects
+You can check out some of my projects here.
+
+# ⚒️ Tools
+* Python: Pandas, NumPy, SciPy, Scikit-learn
+* R: dplyr, tidyr, lubridate
+* Databases: Databricks (DB-SQL)
+* BI: Looker, PowerBI
+* Data engineering: dbt
