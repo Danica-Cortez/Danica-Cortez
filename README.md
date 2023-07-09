@@ -6,7 +6,7 @@ I'm Danica, a data professional with a deep passion for storytelling through dat
 
 
 # 📚 Projects
-You can check out some of my projects here.
+You can check out some of my projects [here](https://www.datascienceportfol.io/danicacortez).
 
 # ⚒️ Tools
 * Python: Pandas, NumPy, SciPy, Scikit-learn
